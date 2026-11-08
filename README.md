@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This repository is a place to **learn, reason, and apply knowledge independently**. It connects mathematical and physical foundations to robotics, sensor systems, and AI, with an eye toward future robotics graduate study and physical-AI engineering.
+This repository is a place to **learn, reason, and apply knowledge independently**. It connects mathematical and physical foundations to robotics, sensor systems, and AI, supporting long-term growth in robotics and physical-AI engineering.
 
 This is a **curriculum and task scaffold**, not a collection of pre-solved assignments. Code, solutions, graphs, and test results will be added **only after the learner has studied, attempted, and verified them**.
 
@@ -47,7 +47,7 @@ Each task describes **questions, prerequisites, and expected learning evidence**
 
 - [November 2026 – July 2027 study plan](docs/roadmap.md)
 - [Feynman-style study and reflection protocol](docs/study-method.md)
-- [University admission / challenging-problem tracker](admissions/README.md)
+- [Advanced problem-solving and source tracker](problem-solving/README.md)
 - [Future experiment organization](experiments/README.md)
 
 | Item | Status |
@@ -66,6 +66,6 @@ Each task describes **questions, prerequisites, and expected learning evidence**
 
 - Do not post solutions before attempting and understanding the problem.
 - Distinguish **planned**, **in progress**, and **verified by the learner**.
-- Attribute problem sources without redistributing unauthorized exam scans.
+- Attribute problem sources without redistributing copyrighted or unauthorized materials.
 - Document real evidence only: reasoning, tests, plots, mistakes, and limitations.
 - Avoid uploading private data, proprietary code, or secrets.

@@ -1,8 +1,8 @@
 # 9-month curriculum: November 2026 – July 2027
 
-This is a **proposed personal study sequence**, not a university syllabus. Time allocations are flexible. Exam-specific subjects and eligibility need verification against each target graduate school's official 2028 admission guidelines. All experiments and tests below are **future targets, not completed work**.
+This is a **proposed personal study sequence** for strengthening applied mathematics, physics, robotics and AI fundamentals. Time allocations are flexible. All experiments and tests below are **future targets, not completed work**.
 
-The study loop is: concept → independent reasoning and problem attempt → physics/robotics/AI connection → optional implementation and tests **when ready** → reflection. Carefully chosen challenging problems include older Japanese university, transfer, or graduate entrance problems when available.
+The study loop is: concept → independent reasoning and problem attempt → physics/robotics/AI connection → optional implementation and tests **when ready** → reflection. Problem sources may include strong historical or modern mathematics and physics problem collections from Japan, Korea, the US and Europe.
 
 | Month | Core mathematics | Physics and engineering | Build / proof of learning |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@ The study loop is: concept → independent reasoning and problem attempt → phy
 | **6 · Apr** | Probability distributions; conditional probability; expectation/covariance; Bayes; least squares | Sensor noise; measurement models; circuits and sensor interfaces | Kalman filter and noisy motion-state estimation, with error metrics |
 | **7 · May** | Optimization; partial derivatives; gradients; chain rule; constrained optimization; numerical methods | Feedback; transfer functions; state-space models; controllability | PID trajectory tracking; gradient descent from scratch, with plots |
 | **8 · Jun** | Numerical linear algebra; matrices in ML; statistics, hypothesis tests; introductory deep learning math | Motors, actuation, sensing, computational limits | Small neural network / radar time-series experiment; clear train/eval split |
-| **9 · Jul** | Mixed proofs, advanced problems, weak-topic repairs; timed past exams | Integrated mechanical/electrical/control questions | End-to-end 2-link robot demo + review document; oral 3-minute derivations |
+| **9 · Jul** | Mixed proofs, advanced problems, weak-topic repairs; timed practice sessions | Integrated mechanical/electrical/control questions | End-to-end 2-link robot demo + review document; oral 3-minute derivations |
 
 ## Detailed skill ladder
 
@@ -35,12 +35,12 @@ The study loop is: concept → independent reasoning and problem attempt → phy
 3. **Circuits / sensors:** voltage-current-resistance, Kirchhoff rules, RC/RL/RLC response, ADC sampling, motor actuation, noise and real-time measurement limits.
 4. **Control and robotics physics:** rigid-body frames, kinematics/dynamics, state-space representation, damping/stability, feedback, PID, model error and state estimation.
 
-### Code and graduate admissions
+### Programming and problem-solving practice
 
 - Python standard library + NumPy/Matplotlib when the experiment calls for them; unit tests, simulation, numerical comparisons and reports.
-- Progress into C/C++ fundamentals where target entrance exams or embedded projects demand them.
-- Use original problems and properly attributed, legally accessible past problems from Japan, South Korea, the US and Europe. Favor problems that require connections or insight over recency alone.
-- Keep a separate [exam source tracker](../admissions/README.md) and verify each school's actual exam scope and application dates.
+- Progress into C/C++ fundamentals when robotics, embedded systems, or numerical experiments call for them.
+- Use original problems and properly attributed, legally accessible archival problems from Japan, South Korea, the US and Europe. Favor problems that require connections or insight over recency alone.
+- Maintain a separate [advanced problem-solving tracker](../problem-solving/README.md) with sources, independent attempts and reflections.
 
 ## Acceptance evidence by milestone
 

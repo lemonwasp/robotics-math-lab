@@ -10,7 +10,7 @@ For each topic, create a short note or PR answering these questions:
 6. **AI application:** Is this a gradient, a state transition, a probabilistic model, or a signal transform?
 7. **Code (later, when ready):** Decide whether implementation would improve understanding; write it only after the independent reasoning attempt.
 8. **Verification (when applicable):** Check edge cases, numerical convergence, invariants, and plotted results. Report actual commands and outcomes; never invent them.
-9. **Problem solving:** Choose a strong past-exam / textbook / original problem, cite the source, attempt independently, and record the mistake and insight. No unauthorized problem scans.
+9. **Problem solving:** Choose a strong archival / textbook / original problem, cite the source, attempt independently, and record the mistake and insight. Do not redistribute copyrighted problem material without permission.
 10. **Three-minute explanation:** Explain to a peer where the theory enters the code and what evidence supports the result.
 
 ### Topic note template
